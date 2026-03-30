@@ -79,7 +79,7 @@ public class HeapSort {
     public static void main(String[] args) {
         
         // initialize a list of strings to test our heapSort function
-        String[] A = {"celtics", "commanders", "mystics", "spartans", "owls"};
+        String[] A = {"celtics", "spartans", "mystics", "commanders", "owls"};
 
         heapSort(A, 0); // ascending
         printArray(A);
