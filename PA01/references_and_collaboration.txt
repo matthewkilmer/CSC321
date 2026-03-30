@@ -1,7 +1,10 @@
 REFERENCES AND COLLABORATION NOTICE
 
-- I did not collaborate with any classmates for this assignment.
-- I utilized ChatGPT for the following:
-
+References:
+I utilized ChatGPT for the following:
     1. A brief refresher on the syntax of Java, from if-else loops and method contruction to string comparisons.
     2. To understand what the prompt was asking us to accomplish with our code (sort strings or numbers).
+
+
+Collaboration:
+I did not collaborate with any classmates for this assignment.
